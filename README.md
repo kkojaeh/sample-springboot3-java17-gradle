@@ -14,3 +14,5 @@ brew install openjdk@17
 ```shell
 java -jar build/libs/sample-spring-boot-3-java-gradle-0.0.1-SNAPSHOT.jar
 ```
+
+테스트 수정
